@@ -1,0 +1,12 @@
+{
+    "register": [
+      { "id": 1, "email": "Samay", "password": "Samay@123" }
+    ],
+    "events": [
+      { "id": 1, "eventname": "Music festivel", "text": "random text","date": "22-06-2023","location": "Nagpur","category": "Music","price":220 },
+      { "id": 2, "eventname": "Sport festivel", "text": "random text","date": "22-06-2023","location": "Nagpur","category": "Sport","price":520 },
+      { "id": 3, "eventname": "Music festivel", "text": "random text","date": "22-06-2023","location": "Mumbai","category": "Sport","price":120 },
+      { "id": 4, "eventname": "Music festivel", "text": "random text","date": "22-06-2023","location": "Nagpur","category": "Music","price":420 },
+      { "id": 5, "eventname": "Workshop festivel", "text": "random text","date": "22-06-2023","location": "Yavatmal","category": "Workshop","price":223 }
+    ]
+  }
